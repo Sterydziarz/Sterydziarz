@@ -1,1 +1,1 @@
-<h3 align="center">lubie w pytonga</h3>
+<h3 align="center">lubie walic pytonga</h3>
